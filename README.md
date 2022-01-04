@@ -4,6 +4,7 @@ This project explores the architecture of a neural network model trained on the 
 2. Model Training
 3. Hyperparameter Tuning of neural network parameters 
 4. Evaluation 
+<br>
 For more information, see **NN Report.pdf**
 
 ## How to run:
