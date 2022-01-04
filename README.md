@@ -1,4 +1,10 @@
 # Artificial Neural Networks
+This project explores the architecture of a neural network model trained on the California House Prices Dataset and evaluates its ability to predict housing prices. This project involves:
+1. Data processing 
+2. Model Training
+3. Hyperparameter Tuning of neural network parameters 
+4. Evaluation 
+For more information, see **NN Report.pdf**
 
 ## How to run:
 
